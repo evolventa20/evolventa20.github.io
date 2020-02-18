@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Evolventa Wiki</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Evolventa Wiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Feb 2020 08:33:01 +0300</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ссылки на видеоматериалы по Evolventa 2.0</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Tue, 18 Feb 2020 08:33:01 +0300</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description> Видеоинструкция по получение API ключа Видеоинструкция по созданию агрегатов и комплектов Видеоинструкция по обновлению Evolventa 2.0  </description>
+    </item>
+    
+  </channel>
+</rss>
