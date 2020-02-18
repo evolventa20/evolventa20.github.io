@@ -3,26 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wiki.evolventa.pro/</loc>
-    <lastmod>2020-02-18T08:33:01+03:00</lastmod>
+    <loc>http://example.org/videodocs/</loc>
+    <lastmod>2020-02-18T21:27:28+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wiki.evolventa.pro/posts/</loc>
-    <lastmod>2020-02-18T08:33:01+03:00</lastmod>
+    <loc>http://example.org/categories/</loc>
   </url>
   
   <url>
-    <loc>https://wiki.evolventa.pro/posts/my-first-post/</loc>
-    <lastmod>2020-02-18T08:33:01+03:00</lastmod>
+    <loc>http://example.org/</loc>
   </url>
   
   <url>
-    <loc>https://wiki.evolventa.pro/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://wiki.evolventa.pro/tags/</loc>
+    <loc>http://example.org/tags/</loc>
   </url>
   
 </urlset>

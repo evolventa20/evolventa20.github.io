@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Evolventa Wiki</title>
-    <link>https://wiki.evolventa.pro/</link>
-    <description>Recent content on Evolventa Wiki</description>
+    <title>Evolventa 2.0 WIKI</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Evolventa 2.0 WIKI</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 18 Feb 2020 08:33:01 +0300</lastBuildDate>
+    <language>ru-ru</language>
     
-	<atom:link href="https://wiki.evolventa.pro/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Ссылки на видеоматериалы по работе в Evolventa 2.0</title>
-      <link>https://wiki.evolventa.pro/posts/my-first-post/</link>
-      <pubDate>Tue, 18 Feb 2020 08:33:01 +0300</pubDate>
-      
-      <guid>https://wiki.evolventa.pro/posts/my-first-post/</guid>
-      <description> Видеоинструкция по получение API ключа для расчета расстояний Видеоинструкция по созданию агрегатов и комплектов Видеоинструкция по обновлению Evolventa 2.0  </description>
-    </item>
     
   </channel>
 </rss>
