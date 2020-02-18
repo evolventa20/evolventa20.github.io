@@ -3,20 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/videodocs/</loc>
+    <loc>http://wiki.evolventa.pro/videodocs/</loc>
     <lastmod>2020-02-18T21:27:28+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://wiki.evolventa.pro/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://wiki.evolventa.pro/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://wiki.evolventa.pro/tags/</loc>
   </url>
   
 </urlset>
