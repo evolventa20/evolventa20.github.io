@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evolventa 2.0 WIKI</title>
-    <link>http://evolventa20.github.io/</link>
+    <link>http://evolventa.neelov.pro/</link>
     <description>Recent content on Evolventa 2.0 WIKI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>us-en</language>
     
-	<atom:link href="http://evolventa20.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://evolventa.neelov.pro/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
