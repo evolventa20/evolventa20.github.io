@@ -1,37 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>http://evolventa.neelov.pro/easy-proc/</loc>
-    <lastmod>2020-02-19T10:56:48+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://evolventa.neelov.pro/unf_video/</loc>
-    <lastmod>2020-02-19T10:35:16+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://evolventa.neelov.pro/videodocs/</loc>
-    <lastmod>2020-02-18T21:27:28+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://evolventa.neelov.pro/evolventa_bp_lite/</loc>
-    <lastmod>2020-02-18T21:27:28+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://evolventa.neelov.pro/categories/</loc>
-  </url>
-  
   <url>
     <loc>http://evolventa.neelov.pro/</loc>
-  </url>
-  
-  <url>
+    <lastmod>2023-03-06T21:27:28+03:00</lastmod>
+  </url><url>
+    <loc>http://evolventa.neelov.pro/netstock/</loc>
+    <lastmod>2023-03-06T21:27:28+03:00</lastmod>
+  </url><url>
+    <loc>http://evolventa.neelov.pro/easy-proc/</loc>
+    <lastmod>2020-02-19T10:56:48+03:00</lastmod>
+  </url><url>
+    <loc>http://evolventa.neelov.pro/unf_video/</loc>
+    <lastmod>2020-02-19T10:35:16+03:00</lastmod>
+  </url><url>
+    <loc>http://evolventa.neelov.pro/videodocs/</loc>
+    <lastmod>2020-02-18T21:27:28+03:00</lastmod>
+  </url><url>
+    <loc>http://evolventa.neelov.pro/evolventa_bp_lite/</loc>
+    <lastmod>2020-02-18T21:27:28+03:00</lastmod>
+  </url><url>
+    <loc>http://evolventa.neelov.pro/categories/</loc>
+  </url><url>
     <loc>http://evolventa.neelov.pro/tags/</loc>
   </url>
-  
 </urlset>

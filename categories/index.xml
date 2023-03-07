@@ -5,10 +5,6 @@
     <link>http://evolventa.neelov.pro/categories/</link>
     <description>Recent content in Categories on Evolventa 2.0 WIKI</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>us-en</language>
-    
-	<atom:link href="http://evolventa.neelov.pro/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>us-en</language><atom:link href="http://evolventa.neelov.pro/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
